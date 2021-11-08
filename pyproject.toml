@@ -43,7 +43,7 @@ typed-argument-parser = "1.6.2"
 wasabi = "0.8.2"
 
 [tool.poetry.dev-dependencies]
-flake8 = "3.9.1"
+flake8 = "4.0.1"
 freezegun = "1.1.0"
 green = "3.2.6"
 pre-commit = "2.12.1"

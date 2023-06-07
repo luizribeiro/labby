@@ -40,7 +40,7 @@ pyre-extensions = "0.0.21"
 pyserial = "3.5"
 strictyaml = "1.4.0"
 typed-argument-parser = "1.6.2"
-wasabi = "0.8.2"
+wasabi = "1.1.2"
 
 [tool.poetry.dev-dependencies]
 flake8 = "4.0.1"
